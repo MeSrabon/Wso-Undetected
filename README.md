@@ -1,4 +1,5 @@
 # Wso-Undetected
+Password:0x00
 
 #########In this version#########
 
